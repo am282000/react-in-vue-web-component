@@ -1,6 +1,3 @@
-
----
-
 # React in Vue 2 Integration
 
 ### Steps to Integrate a React Component as a Web Component in Vue 2
@@ -29,5 +26,3 @@
 
 5. **Pass Props and Listen to Events**
    - Pass props to `<my-web-component>` using attributes.
-
----
